@@ -968,6 +968,14 @@ http-signature@~1.2.0:
     jsprim "^1.2.2"
     sshpk "^1.7.0"
 
+iced-coffee-script@^108.0.14:
+  version "108.0.14"
+  resolved "https://registry.yarnpkg.com/iced-coffee-script/-/iced-coffee-script-108.0.14.tgz#9ca5b258decf4a5eafb16f5663ff7683227c4f1a"
+  integrity sha512-e0CNmz51UGWRa2glPnUMnJM7oKQE81cxeC0WAgCjJDRImv3FDHldZr/Ngkbrgdbf1drGGzYWp+PWeJwXIfHwDw==
+  dependencies:
+    iced-runtime ">=0.0.1"
+    uglify-js "^3.5.9"
+
 iced-coffee-script@^108.0.9:
   version "108.0.14"
   resolved "https://registry.npmjs.org/iced-coffee-script/-/iced-coffee-script-108.0.14.tgz"

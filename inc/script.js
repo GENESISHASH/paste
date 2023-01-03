@@ -58,6 +58,5 @@ document.querySelectorAll('.blob-code-inner,.blob-num').forEach(el => {
   el.style.fontSize = "14px"
 })
 
-let bulk = document.getElementsByClassName('Box-body')[0].serializeWithStyles()
-console.log(bulk)
+window._data = document.getElementsByClassName('Box-body')[0].serializeWithStyles()
 
