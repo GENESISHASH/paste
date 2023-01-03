@@ -30,7 +30,7 @@ b.visit gist_url, ->
     parts = ["""
       <style>
         body{margin-top:10px!important;margin-bottom:10px!important;}
-        Box-body{border-bottom:0!important;}
+        .Box-body{border-bottom:0!important;}
       </style>
     """]
     parts.push """<style>#{_.reads(__dirname + '/inc/css.min.css')}</style>"""
