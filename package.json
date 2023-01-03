@@ -1,0 +1,12 @@
+{
+  "name": "pastie",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "wegweg": "^0.21.0"
+  },
+  "devDependencies": {
+    "zombie": "^6.1.4"
+  }
+}
